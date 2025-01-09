@@ -1,6 +1,4 @@
-Entendido. Aquí tienes una versión **original y distinta** del README para que se diferencie del original pero mantenga un toque profesional y único para tu proyecto:
 
----
 
 # 🌍 Climate Trends: Data Analysis & Prediction
 
@@ -61,7 +59,3 @@ Este proyecto está abierto a contribuciones. Si deseas añadir nuevos análisis
 
 ## 🎯 Visión
 Este análisis busca ser una herramienta accesible para científicos, educadores y activistas que deseen estudiar y comunicar el impacto del cambio climático de manera efectiva.
-
----
-
-¿Te gustaría ajustar algo más o añadir un enfoque adicional? 😊
