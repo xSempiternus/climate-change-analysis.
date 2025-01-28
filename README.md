@@ -1,3 +1,7 @@
+Aquí está la versión con la nueva sección añadida:
+
+---
+
 # 🌍 Climate Trends: Data Analysis & Prediction
 
 This repository contains a customized analysis of historical climate data to identify global trends, understand the impact of climate change, and develop predictive models to anticipate future scenarios.
@@ -35,6 +39,17 @@ This project uses historical data provided by **Berkeley Earth**, including:
 4. **Regional Insights:**
    - Comparison of temperatures by country and city to observe disparities.
 
+## ✨ New Features Added
+This repository builds upon the original by adding:
+- **Enhanced visualizations** with customized themes and more engaging interactive elements.
+- **Additional regional analyses**, allowing for more in-depth comparisons between countries and cities.
+- **Improved predictive modeling** with optimized parameters and adjustments to better reflect regional climate patterns.
+- **Scenario-specific predictions**, focusing on climate impacts for specific areas or timeframes.
+- **Error analysis and validation metrics** to assess model performance and reliability.
+- **Documentation improvements**, providing clearer instructions for reproducing the analysis and understanding the results.
+
+These additions make the analysis more comprehensive and accessible for both scientific and educational purposes.
+
 ## 🌟 Key Differentiators
 - Unique and enhanced design with more engaging visualizations.
 - Additional analyses not included in the original version.
@@ -56,4 +71,4 @@ This project uses historical data provided by **Berkeley Earth**, including:
 This project is open to contributions. If you'd like to add new analyses, improve the predictive models, or propose ideas, you are welcome to collaborate!
 
 ## 🎯 Vision
-This analysis aims to be an accessible tool for scientists, educators, and activists who wish to study and communicate the impact of climate change effectively.        
+This analysis aims to be an accessible tool for scientists, educators, and activists who wish to study and communicate the impact of climate change effectively.
