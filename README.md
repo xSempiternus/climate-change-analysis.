@@ -1,4 +1,4 @@
-Aquí está la versión con la nueva sección añadida:
+
 
 ---
 
@@ -56,7 +56,7 @@ This analysis highlights how climate change is affecting two distinct regions: *
 - In **India**, promoting **solar energy adoption** and **sustainable agriculture** can help mitigate the impact of rising temperatures.
 - In **Netherlands**, investing in **green urban infrastructure** and **climate-adaptive policies** is essential to handle increasing temperature fluctuations.
 
-📊 For a detailed analysis, refer to [`Climate-Change-Analysis/Python NB/ByCountryProj.ipynb`](Climate-Change-Analysis/Python NB/ByCountryProj.ipynb).
+📊 For a detailed analysis, refer to [`Climate-Change-Analysis/Python NB/ByCountryProj.ipynb`](Climate-Change-Analysis/Python NB/ByCountryProj.ipynb).w
 
 
 ## 🌟 Key Differentiators
